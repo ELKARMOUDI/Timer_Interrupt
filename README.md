@@ -3,6 +3,10 @@
 ![STM32F411](https://img.shields.io/badge/STM32F411-Nucleo-blue)
 ![TIM10](https://img.shields.io/badge/TIM10-Interrupt-green)
 
+<img src="https://github.com/user-attachments/assets/4c574b08-8542-4e3d-8ace-b6607aaccf0d" width="50%" alt="Description">
+
+
+
 Toggle LED at 1Hz using TIM10 interrupts on STM32F411 Nucleo.
 
 ## Features
